@@ -1,29 +1,80 @@
-![logo](https://github.com/MuhammadAsad256/MuhammadAsad256/blob/main/Github%20Banner.png)
-<h1 align="center">Hi 👋, I'm M.Asad</h1>
-<h3 align="center">Beginner Level Python Programmer</h3>
+![banner](https://github.com/MuhammadAsad256/MuhammadAsad256/blob/main/Github%20Banner.png)
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<h1 align="center">Hi 👋, I'm Muhammad Asad</h1>
+<h3 align="center">Python Developer | Backend Enthusiast | Web Designer</h3>
 
-- 🌱 I’m currently learning **Programming Language**
-
-- 👨‍💻 All of my projects are available at [github.com/MuhammadAsad256](https://github.com/MuhammadAsad256?tab=repositories)
-
-- 📫 How to reach me **asadm2839@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/muhammadasadazhar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/muhammadasad256" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100035405809487" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad asad" height="30" width="40" /></a>
-<a href="https://www.instagram.com/624muhammadasad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/624muhammadasad/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFB3&width=435&lines=Python+%7C+Django+%7C+Flask+%7C+DRF;HTML+%26+CSS+Designer;Always+Improving+My+Skills!" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadasad256&show_icons=true&locale=en&layout=compact" alt="muhammadasad256" /></p>
+### 💡 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadasad256&" alt="muhammadasad256" /></p>
+- 👨‍💻 I'm confident in **Python**, **HTML**, and **CSS**, and building backends with **Django**, **Flask**, and **DRF**
+- 🛠️ Passionate about clean code, performance, and creating functional web applications
+- 🔄 Continuously improving and exploring new tools and technologies
+- 📫 Email me: **asadm2839@gmail.com**
+- 😄 Fun fact: I break things to learn how they work!
 
+---
 
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/muhammadasadazhar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100035405809487" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/624muhammadasad/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Skills & Tools I Use
+
+#### 📌 Languages & Frameworks
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" alt="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" alt="Flask"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS"/>
+</p>
+
+#### 🧰 Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode"/>
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadAsad256&show_icons=true&theme=radical" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MuhammadAsad256&theme=radical" />
+</p>
+
+---
+
+### 📌 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAsad256&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 👁️‍🗨️ Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MuhammadAsad256&label=Profile+Views&color=blueviolet&style=flat" />
+</p>
